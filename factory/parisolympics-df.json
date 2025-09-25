@@ -1,0 +1,9 @@
+{
+	"name": "parisolympics-df",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5803aa4-f6ff-4a23-8434-b2c4c2262f37",
+		"tenantId": "be62a12b-2cad-49a1-a5fa-85f4f3156a7d"
+	}
+}
