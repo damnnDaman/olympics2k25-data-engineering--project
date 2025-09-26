@@ -1,0 +1,12 @@
+{
+	"name": "athletes_data_link",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/damnnDaman/olympics2k25-data-engineering--project/refs/heads/main/athletes%20new.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
